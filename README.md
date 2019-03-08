@@ -1,8 +1,8 @@
 # Security-Links
 List of Security Resources for Pentesting
 # XSS Links:
-https://github.com/s0md3v/AwesomeXSS
-https://github.com/masatokinugawa/filterbypass/wiki/Browser's-XSS-Filter-Bypass-Cheat-Sheet
+*https://github.com/s0md3v/AwesomeXSS*
+*https://github.com/masatokinugawa/filterbypass/wiki/Browser's-XSS-Filter-Bypass-Cheat-Sheet*
 https://www.exploit-db.com/papers/13646
 https://alihassanpenetrationtester.blogspot.com/2013/01/bypassing-xss-filters-advanced-xss.html
 https://forum.bugcrowd.com/t/tutorial-injectx-to-find-xss/790
