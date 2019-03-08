@@ -14,3 +14,11 @@ https://github.com/devwerks/XSS-Cheatsheet
 https://github.com/the-robot/xss-cheatsheet/blob/master/xss.txt
 https://github.com/Coding-Karma/XSS-Cheatsheet/blob/master/xss_vectors.txt
 https://github.com/s0md3v/AwesomeXSS/blob/master/Database/jackmasa-mind-map.png
+https://gist.github.com/sseffa/11031135
+http://brutelogic.com.br/blog/file-upload-xss/
+https://medium.com/@marin_m/how-i-found-a-5-000-google-maps-xss-by-fiddling-with-protobuf-963ee0d9caff
+https://github.com/foospidy/payloads/tree/master/other/xss
+https://medium.com/@tbmnull/making-an-xss-triggered-by-csp-bypass-on-twitter-561f107be3e5
+https://github.com/RenwaX23/XSS-Payloads/blob/master/Payloads.txt
+https://github.com/0xsobky/HackVault/wiki/Unleashing-an-Ultimate-XSS-Polyglot
+
